@@ -55,8 +55,15 @@ The method uses statistical approaches to identify significantly enriched or dep
 
 Transcriptomics technologies and proteomics results often identify thousands of genes which are used for the analysis.
 
+## Results
+
+String Network Constructed from differentially expressed genes
+[](https://github.com/Rahul-Ganesan/Bioinformatics-and-Biological-Systems/blob/f8c664f1cce509769173b7089c361c5d9a866f82/Differentially%20Expressed%20Genes/STRING%20network.png)
+
 ## Resources and Software Used
 
 [Cytoscape](https://cytoscape.org/)
+
 [CytoHubba](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-8-S4-S11)
+
 [Gene Ontology Term Enrichment Analysis](https://pubmed.ncbi.nlm.nih.gov/27780226/)
