@@ -3,7 +3,12 @@
 
 ## What is Chemical Kinetics?
 
-It is a part of chemical science that deals with Rate of chemical reactions.
+It is a part of chemical science that deals with Rate of chemical reactions and factor which effect the reaction rates.
+
+![A Gives B](https://github.com/Rahul-Ganesan/Bioinformatics-and-Biological-Systems/blob/09b0cc740e373a5e58892e7bc813b51358c5059d/Bayesian%20Statistics%20and%20Modelling/One.png)
+
+   ![Rate Law](https://github.com/Rahul-Ganesan/Bioinformatics-and-Biological-Systems/blob/34bc12d01edeb87b3ec4fbb1f0983e00d54b73c3/Bayesian%20Statistics%20and%20Modelling/Two.jpg)
+
 
 ## Ordinary Differential Equation
 
@@ -27,6 +32,7 @@ The steady state is the state in which the state variables of the model, e.g. th
 
 Metabolic control analysis (MCA) is a mathematical framework for describing metabolics, signalling and genetics pathways. MCA quantifies how variables, such as fluxes and species concentrations, depend on networks parameters. It can describe how network dependent properties, called control coefficients, depend on local properties called elasticity. The elasticity of a function is a constant alpha if and only if the function has the form f(x) = C*x^alpha for constant C > 0.
 
-# Software Used
+# Software Used and References
 
 [Copasi](https://copasi.org/)
+[MCA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2447884/)
