@@ -35,4 +35,4 @@ Metabolic control analysis (MCA) is a mathematical framework for describing me
 # Software Used and References
 
 [Copasi](https://copasi.org/)
-[MCA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2447884/)
+[Metabolic Control Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2447884/)
