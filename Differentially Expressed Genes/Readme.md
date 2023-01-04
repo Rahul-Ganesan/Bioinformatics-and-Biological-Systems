@@ -1,7 +1,7 @@
 
 # Differential Gene Expression
 
-## Part 1 - Finding Differentially Expressed Genes using R-
+## Part 1 - Finding Differentially Expressed Genes using R
 
 ### What is Gene Expression?
 
