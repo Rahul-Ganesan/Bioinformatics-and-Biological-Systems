@@ -58,7 +58,8 @@ Transcriptomics technologies and proteomics results often identify thousands o
 ## Results
 
 String Network Constructed from differentially expressed genes
-[](https://github.com/Rahul-Ganesan/Bioinformatics-and-Biological-Systems/blob/f8c664f1cce509769173b7089c361c5d9a866f82/Differentially%20Expressed%20Genes/STRING%20network.png)
+
+![](https://github.com/Rahul-Ganesan/Bioinformatics-and-Biological-Systems/blob/f8c664f1cce509769173b7089c361c5d9a866f82/Differentially%20Expressed%20Genes/STRING%20network.png)
 
 ## Resources and Software Used
 
